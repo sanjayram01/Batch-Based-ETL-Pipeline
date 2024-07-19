@@ -15,6 +15,9 @@ The architecture includes:
 - **Amazon RDS**: For storing the final transformed data.
 - **Amazon DynamoDB**: For auditing and logging.
 
+![image](https://github.com/user-attachments/assets/1713175e-c086-490a-ba93-a829990d3828)
+
+
 ## Project Structure
 
 - **Batch Based ETL Pipeline Documentation.pdf**: Detailed documentation of the project.
