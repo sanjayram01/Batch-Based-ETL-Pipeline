@@ -1,7 +1,5 @@
 # Batch Based ETL Pipeline
 
-This project demonstrates a batch-based ETL (Extract, Transform, Load) pipeline using AWS services. The pipeline reads data from an S3 bucket, performs data integrity checks and transformations using AWS Glue, and loads the transformed data into an RDS instance.
-
 ## Overview
 
 This project demonstrates a batch-based ETL (Extract, Transform, Load) pipeline using AWS services. The pipeline reads data from an S3 bucket, performs data integrity checks and transformations using AWS Glue, and loads the transformed data into an RDS instance.
